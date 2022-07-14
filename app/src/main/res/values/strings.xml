@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">ExamenModulo4</string>
+    <string name="tvWelcome">Welcome VPN Hub</string>
+    <string name="tvSignUp">A new user just signed up and a hearty handshake isn´t possible, so now what?</string>
+    <string name="btnEndSession">End Session</string>
+    <string name="btnBack">Back</string>
+    <string name="tvLogin">Login</string>
+    <string name="etUserName">Type your username</string>
+    <string name="tvUserName">Username</string>
+    <string name="etPassword">Type your password</string>
+    <string name="tvPassword">Password</string>
+    <string name="tvForgot">Forgot password?</string>
+    <string name="btnLogin">Login</string>
+    <string name="tvSignUpInit">SIGN UP</string>
+    <string name="tvNotAccount">Have not account yet?</string>
+    <string name="tvUsing">Or Sign Up Using</string>
+</resources>
